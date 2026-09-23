@@ -1,41 +1,73 @@
 # Players Commons Governance
 
-## Purpose
+## 1. Relationship to Metachrysalis Governance
 
-Governance exists to protect participation, reciprocity, and the continued health of the Commons.
+The Players Commons operates under the governance framework established in:
 
-## Membership Decisions
+https://github.com/Metachrysalis/commons/blob/main/GOVERNANCE.md
 
-Admission, suspension, and removal are made by the body or process delegated responsibility for Players Commons membership.
+Players Commons members are **Participating Members**.
 
-## Consent
+Players Commons membership does not by itself confer Voting Membership.
 
-Where practical, decisions should seek consent rather than simple majoritarian control.
+Formal governance authority is held by the Voting Members recorded in:
 
-## Delegation
+https://github.com/Metachrysalis/commons/blob/main/VOTING-MEMBERS.md
 
-The Commons may delegate routine membership administration while reserving significant or contested decisions for a wider governance process.
+## 2. Player Participation
 
-## Conflicts
+Players are encouraged to participate actively in the development and stewardship of the Commons.
 
-A person should disclose material conflicts of interest when participating in a decision affecting another member or organization.
+Players may:
 
-## Suspension
+* make proposals;
+* participate in discussions;
+* raise concerns;
+* recommend policy changes;
+* comment on membership and community questions where invited;
+* participate in working groups and consultations; and
+* otherwise contribute to the health and direction of the Commons.
+
+These participation rights are meaningful but do not by themselves confer a formal vote.
+
+## 3. Membership Decisions
+
+Admission, suspension, and removal of Players Commons members are governed through the formal governance structure of the Metachrysalis Commons.
+
+Routine admission or membership administration may be delegated by the Voting Members.
+
+A delegation does not create Voting Membership.
+
+## 4. Suspension
 
 Temporary suspension may be used where immediate protection of the Commons or its members reasonably requires it.
 
-## Removal
+Any continuing suspension or removal must be handled under the applicable governance process.
 
-Membership may be ended for material or repeated violation of the Commons Agreement or other conduct that makes continued membership incompatible with the functioning or integrity of the Commons.
+## 5. Removal
 
-## Reasons and Privacy
+Membership may be ended for material or repeated violation of the Commons Agreement or other conduct that makes continued membership incompatible with the functioning, safety, purposes, or integrity of the Commons.
 
-Internal governance should record sufficient reasons for accountability.
+Membership decisions do not retroactively invalidate acts lawfully completed while membership was active.
 
-The Commons is not required to publicly disclose private or sensitive details concerning membership decisions.
+## 6. Consultation
 
-## Changes
+Voting Members are encouraged to seek input from Players when a decision materially affects the Players Commons.
 
-Changes to governance operate prospectively.
+Consultation does not require Voting Membership.
+
+## 7. Conflicts of Interest
+
+People participating in a membership review, recommendation, or delegated decision should disclose material conflicts of interest.
+
+## 8. Reasons and Privacy
+
+Governance records should preserve sufficient information for continuity and accountability.
+
+The Commons is not required to publicly disclose confidential, private, or sensitive details concerning membership decisions.
+
+## 9. Changes
+
+Changes to Players Commons governance operate prospectively.
 
 Git history provides the public version record.
