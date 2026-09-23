@@ -32,9 +32,15 @@ Players acting materially on behalf of an organization must ensure that the orga
 
 ## Governance
 
-Membership carries the participation rights defined in `GOVERNANCE.md`.
+Players Commons members are Participating Members of the Metachrysalis Commons.
 
-Financial contribution does not confer additional votes or status.
+Participating Membership includes meaningful rights to propose, discuss, consult, contribute, and otherwise participate as described in `GOVERNANCE.md`.
+
+Players Commons membership does not by itself confer a formal governance vote.
+
+Formal Voting Membership is separately established under the Metachrysalis Commons governance framework.
+
+Financial contribution does not confer Voting Membership or additional governance authority.
 
 ## Ending Membership
 
