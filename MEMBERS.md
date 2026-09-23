@@ -1,6 +1,12 @@
-# Players Commons Membership Registry
+# Players Commons Participating Membership Registry
 
-This file is the authoritative public record of active Players Commons membership.
+This file is the authoritative public record of active Players Commons Participating Membership.
+
+Players Commons Participating Membership is distinct from formal Metachrysalis Voting Membership.
+
+Voting Membership is recorded separately at:
+
+https://github.com/Metachrysalis/commons/blob/main/VOTING-MEMBERS.md
 
 | Commons ID | Public Name | Identifier | Member Since | Status |
 | ---------- | ----------- | ---------- | ------------ | ------ |
