@@ -20,6 +20,16 @@ See `MEMBERS.md`.
 
 See `COMMONS-AGREEMENT.md`.
 
+## Participation and Governance
+
+Players Commons members are **Participating Members**.
+
+Participating Members may propose, discuss, consult, collaborate, and otherwise meaningfully influence the Commons.
+
+Formal governance votes are held by the Metachrysalis Voting Membership.
+
+See `GOVERNANCE.md` and the root Metachrysalis Commons governance framework.
+
 ## License
 
 See `LICENSE.md`.
